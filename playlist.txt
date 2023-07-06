@@ -1,6 +1,15 @@
 가수명       노래명
 ------------------
+<<<<<<< HEAD
 (G)IDLE     퀸카
 에스파       Spicy
 세븐틴       손오공
 엔믹스       love me like this
+세븐틴BSS    파이팅 해야지!
+=======
+소녀시대     다시만난세계
+원더걸스     텔미
+APink        NONONO
+Apink        Mr.chu
+씨스타       touch my body
+>>>>>>> oldsong
